@@ -1,6 +1,0 @@
-C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\bin\Release\net8.0\win-x64\publish\Stretched Res Application.exe
-C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\bin\Release\net8.0\win-x64\publish\Stretched Res Application.dll
-C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\bin\Release\net8.0\win-x64\publish\Stretched Res Application.deps.json
-C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\bin\Release\net8.0\win-x64\publish\Stretched Res Application.runtimeconfig.json
-C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\bin\Release\net8.0\win-x64\publish\Stretched Res Application.pdb
-C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\bin\Release\net8.0\win-x64\publish\Newtonsoft.Json.dll
