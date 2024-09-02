@@ -1,6 +1,6 @@
 # ResolutionChanger
 
-ResolutionChanger is a tool that automatically changes your display resolution based on the applications you are running. Ideal for gamers and professionals who need different resolution settings for different tasks.
+ResolutionChanger is a windows only tool that automatically changes your display resolution based on the applications you are running. Ideal for gamers and professionals who need different resolution settings for different tasks.
 
 ## Features
 - Automatic resolution adjustment based on running applications.
