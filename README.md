@@ -17,4 +17,4 @@ ResolutionChanger is a tool that automatically changes your display resolution b
 RUN THE PROGRAM WITH THE execute app.bat
 
 
-IF YOU WANT TO CHANGE RESOLUTION + CHANGE APPLICATIONS, GO TO THE CONFIG FILE AND POPULAR APPLICATIONS FILE
+IF YOU WANT TO CHANGE RESOLUTION + CHANGE APPLICATIONS, GO TO ```config.json AND ```Popular Applications.txt
