@@ -12,3 +12,5 @@ ResolutionChanger is a tool that automatically changes your display resolution b
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ResolutionChanger.git
+
+### RUN THE PROGRAM WITH THE execute app.bat
