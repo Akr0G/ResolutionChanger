@@ -1,7 +1,8 @@
-VALORANT-Win64-Shipping
-FortniteClient-Win64-Shipping_EAC_EOS
-r5apex.exe
-cod
+VALORANT-Win64-Shipping (Valorant)
+FortniteClient-Win64-Shipping_EAC_EOS (Fortnite)
+r5apex.exe (Apex Legends)
+cod (Warzone)
+cs2 (CSGO 2)
 
 *IMPOTANT*
 IF YOU WANT TO CHOOSE APPLICATIONS, FIND APPLICATIONS USING TASK MANAGER AND PUT IT IN THE CONFIG FILE (REMOVE THE .EXE OF THE FILE).
