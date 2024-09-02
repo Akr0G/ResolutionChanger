@@ -1,0 +1,17 @@
+{
+  "DesktopResolution": {
+    "Width": 2560,
+    "Height": 1440
+  },
+  "TargetResolution": {
+    "Width": 1720,
+    "Height": 1080
+  }, 
+  "TargetProcesses": [
+    "FortniteClient-Win64-Shipping_EAC_EOS",
+    "VALORANT-Win64-Shipping",
+    "r5apex",
+    "cod",
+    "cs2"
+  ]
+}
