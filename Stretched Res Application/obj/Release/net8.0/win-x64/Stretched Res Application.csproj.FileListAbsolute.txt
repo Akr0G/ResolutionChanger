@@ -1,0 +1,17 @@
+C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\bin\Release\net8.0\win-x64\Stretched Res Application.exe
+C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\bin\Release\net8.0\win-x64\Stretched Res Application.deps.json
+C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\bin\Release\net8.0\win-x64\Stretched Res Application.runtimeconfig.json
+C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\bin\Release\net8.0\win-x64\Stretched Res Application.dll
+C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\bin\Release\net8.0\win-x64\Stretched Res Application.pdb
+C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\bin\Release\net8.0\win-x64\Newtonsoft.Json.dll
+C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\obj\Release\net8.0\win-x64\Stretched Res Application.csproj.AssemblyReference.cache
+C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\obj\Release\net8.0\win-x64\Stretched Res Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\obj\Release\net8.0\win-x64\Stretched Res Application.AssemblyInfoInputs.cache
+C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\obj\Release\net8.0\win-x64\Stretched Res Application.AssemblyInfo.cs
+C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\obj\Release\net8.0\win-x64\Stretched Res Application.csproj.CoreCompileInputs.cache
+C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\obj\Release\net8.0\win-x64\Stretche.8A8B5208.Up2Date
+C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\obj\Release\net8.0\win-x64\Stretched Res Application.dll
+C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\obj\Release\net8.0\win-x64\refint\Stretched Res Application.dll
+C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\obj\Release\net8.0\win-x64\Stretched Res Application.pdb
+C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\obj\Release\net8.0\win-x64\Stretched Res Application.genruntimeconfig.cache
+C:\Users\akhil\OneDrive\Desktop\Stretched Res Application\obj\Release\net8.0\win-x64\ref\Stretched Res Application.dll
