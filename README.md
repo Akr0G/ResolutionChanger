@@ -14,13 +14,21 @@ ResolutionChanger is a tool that automatically changes your display resolution b
    git clone https://github.com/yourusername/ResolutionChanger.git
 
 ### IMPORANT 
-Run the program with ```execute app.bat
+Run the program with 
 
-If you want to change resolution and change applications, update in ./config.json 
+```
+execute app.bat
+```
+If you want to change resolution and change applications, update in 
 
-Common Applications:
+```
+config.json
+``` 
 
-VALORANT-Win64-Shipping
-FortniteClient-Win64-Shipping_EAC_EOS
-r5apex
-cod
+## Common Applications:
+
+- VALORANT-Win64-Shipping
+- FortniteClient-Win64-Shipping_EAC_EOS
+- r5apex
+- cod
+- cs2
