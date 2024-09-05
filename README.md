@@ -11,7 +11,7 @@ ResolutionChanger is a windows only tool that automatically changes your display
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ResolutionChanger.git
+   git clone https://github.com/Akr0G/ResolutionChanger.git
 
 ### IMPORANT 
 Run the program with 
